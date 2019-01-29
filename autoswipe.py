@@ -6,5 +6,5 @@ import time
 
 
 while True:
-    time.sleep(1.0)
+    time.sleep(0.4)
     pyautogui.press("right")
